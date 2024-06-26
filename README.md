@@ -1,40 +1,23 @@
-# GraydonTruth.io
+Projects Overview
+Welcome to my repository of projects! Below is a brief introduction to what you'll find here:
 
-Welcome to the official repository for GraydonTruth.io, the personal website of Ricky Graydon Roberts. This site showcases Ricky's journey as a junior developer and data analyst at Skunkworks (Pty) Ltd.
+Table of Contents
+.github/workflows
+My Website
+License
+README.md
+.github/workflows
+This section includes GitHub Actions workflows that automate tasks within this repository.
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
+Contents
+My Website
+Discover my personal portfolio website, where I showcase my skills, projects, and professional journey in junior development and data analysis.
 
-## Introduction
+License
+All projects in this repository are covered under [LICENSE NAME] (please replace with your specific license details).
 
-GraydonTruth.io is a personal website built to share Ricky Graydon Roberts' professional journey, projects, and achievements. The website features an elegant design inspired by Nike's branding and style.
+README.md
+You are currently viewing the README file that introduces my projects.
 
-## Features
-
-- Responsive design
-- Introduction to Ricky Graydon Roberts
-- Links to professional profiles (Fiverr, LinkedIn, GitHub, Credly, UpWork, Offerzen)
-- Contact information
-
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
-### Prerequisites
-
-- Web browser (e.g., Chrome, Firefox)
-- Code editor (e.g., VSCode, Sublime Text)
-
-### Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/Pero-s-Academy/GraydonTruth.io.git
-
+Feel free to explore each section to learn more about my contributions. If you have any questions or feedback, please reach out
