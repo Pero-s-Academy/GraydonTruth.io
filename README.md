@@ -1,5 +1,8 @@
 Projects Overview
+
+
 Welcome to my repository of projects! Below is a brief introduction to what you'll find here:
+
 
 Table of Contents
 .github/workflows
