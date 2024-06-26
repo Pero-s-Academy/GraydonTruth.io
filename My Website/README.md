@@ -1,4 +1,4 @@
-# Graydon Truth Aka Ricky Graydon Roberts Portfolio Website
+# Graydon Truth Portfolio Website
 
 
 
